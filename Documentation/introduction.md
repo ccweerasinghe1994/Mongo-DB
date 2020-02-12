@@ -5,4 +5,4 @@ MongoDB is a document database, which means it stores data in JSON-like document
 
 >How It Works
 
-![](../img/2.png)
+![](../img/2.PNG)
